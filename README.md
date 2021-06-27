@@ -1,6 +1,6 @@
 # Appraisal of COVID-19 Test, Trace and Isolate modelling approaches with the public and professional stakeholders 
 
-<img align="left" src="https://user-images.githubusercontent.com/82951871/123474744-53395400-d5f2-11eb-8142-4cd35cac9dbe.jpg" width="150" height="72">
+<img align="left" src="https://user-images.githubusercontent.com/82951871/123474744-53395400-d5f2-11eb-8142-4cd35cac9dbe.jpg" width="225" height="108">
 
 The ongoing COVID-19 pandemic, caused by infection with the SARS-CoV-2 virus, has sadly resulted in the illness and deaths of many people in the UK and abroad. Damages to health and wellbeing have occurred both directly from the disease and indirectly via its disruptive effects on society and the economy. In the midst of this pandemic emergency, policy-makers in the UK require rapid evidence to inform decision-making. While ‘lockdown’ interventions and restrictive social distancing policies have been used to reduce infections in the population, these approaches are relatively untargeted and carry high costs. 
 
