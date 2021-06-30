@@ -12,4 +12,4 @@ In the present study, we are interviewing members of the public and stakeholders
 
 **If you are interested in taking part, please read the [Participant Information Sheet](https://github.com/test-trace-isolate-interviews/public-recruitment/wiki/Participant-Information-Sheet) before booking an interview using [this link](https://doodle.com/mm/guymarshall1/covid19-ppie).**
 
-This research is funded by UK Research and Innovation (UKRI) and the National Institute of Health research (NIHR) via the COVID-19 rapid response call.
+This research is funded by UK Research and Innovation (UKRI) and the National Institute for Health research (NIHR) via the COVID-19 rapid response call.
