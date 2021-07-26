@@ -10,6 +10,6 @@ In order to develop useful modelling tools, we need to understand the experience
 
 In the present study, we are interviewing members of the public and stakeholders about the assumptions and processes that we include in the models that we use to understand the potential effectiveness of different TTI strategies.
 
-**Thanks you for your interest. This study concluded on 26th July 2021.**
+**Thank you for your interest. This study concluded on 26th July 2021 and is not accepting new participants.**
 
 This research is funded by UK Research and Innovation (UKRI) and the National Institute for Health research (NIHR) via the COVID-19 rapid response call.
